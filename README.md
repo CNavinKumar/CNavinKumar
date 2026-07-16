@@ -1,290 +1,135 @@
 <div align="center">
 
-<img src="./frontend/public/logo.png" alt="SVHEC Attendance System Logo" width="160"/>
+<img src="YOUR_LOGO_URL_OR_GITHUB_LOGO" width="180" alt="Navin Kumar Logo"/>
 
-# 🎓 SVHEC Attendance Management System
+# Hi, I'm Navin Kumar C 👋
 
-### Smart • Secure • Real-Time Attendance Management Platform
+### 🚀 Full Stack Developer | MERN Stack Enthusiast | B.Tech Information Technology Student
 
 <p align="center">
-A modern MERN Stack Attendance Management System built for educational institutions with real-time attendance tracking, timetable management, faculty authentication, analytics, and an Admin Dashboard.
+Passionate about building modern web applications, solving real-world problems, and continuously learning new technologies. I enjoy creating scalable, user-friendly, and impactful software solutions.
 </p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Made%20with-MERN-green?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CNavinKumar&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 📖 Overview
+# 👨‍💻 About Me
 
-The **SVHEC Attendance Management System** is a full-stack web application developed to digitize classroom attendance.
-
-The system enables faculty members to securely mark attendance based on timetable schedules while allowing administrators to monitor attendance records, manage faculty, classes, departments, and generate detailed reports.
-
-The application eliminates manual attendance registers and provides a fast, reliable, and user-friendly solution.
-
----
-
-# ✨ Key Features
-
-## 👨‍🏫 Faculty Module
-
-- Secure Login Authentication
-- Take Attendance
-- View Today's Schedule
-- Automatic Time Validation
-- Mark Present / Absent / OD
-- Real-Time Attendance Submission
-- Duplicate Prevention
-- Mobile Responsive UI
+- 🎓 B.Tech Information Technology (2023–2027)
+- 🏫 Shree Venkateshwara Hi-Tech Engineering College (Autonomous)
+- 💻 Full Stack Web Developer
+- 🌱 Currently exploring advanced MERN Stack development, scalable system design, and cloud deployment.
+- 🔭 Building real-world applications with clean architecture and modern UI/UX.
+- 🎯 Goal: Become a Software Engineer and contribute to impactful products.
+- ⚡ Passionate about continuous learning and solving challenging problems.
 
 ---
 
-## 👨‍💼 Admin Module
+# 🛠 Tech Stack
 
-- Dashboard Analytics
-- Faculty Management
-- Student Management
-- Department Management
-- Class Management
-- Subject Management
-- Timetable Management
-- Academic Calendar
-- Attendance Monitoring
-- Attendance Reports
-- CSV Export
-- Excel Export
-- Attendance Statistics
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Vite
+- Tailwind CSS
 
----
-
-## 📊 Reports
-
-- Daily Attendance
-- Monthly Attendance
-- Department-wise Reports
-- Class-wise Reports
-- Student Attendance History
-- Subject-wise Reports
-- Faculty Reports
-- Overall Attendance Percentage
-
----
-
-# 🚀 Tech Stack
-
-| Category | Technology |
-|-----------|------------|
-| Frontend | React.js + Vite |
-| Backend | Node.js |
-| Framework | Express.js |
-| Database | MongoDB Atlas |
-| Authentication | JWT + bcrypt |
-| Real-Time | Socket.IO |
-| Styling | CSS3 |
-| Icons | Lucide React |
-| API | REST API |
-| Deployment | Render |
-
----
-
-# 📂 Project Structure
-
-```
-Attendance/
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── public/
-│   │     └── logo.png
-│   ├── src/
-│   │     ├── components/
-│   │     ├── pages/
-│   │     ├── context/
-│   │     ├── services/
-│   │     ├── assets/
-│   │     └── App.jsx
-│   └── package.json
-│
-└── README.md
-```
-
----
-
-# ⚡ Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Attendance.git
-```
-
----
-
-## Backend
-
-```bash
-cd backend
-
-npm install
-
-npm run dev
-```
-
----
-
-## Frontend
-
-```bash
-cd frontend
-
-npm install
-
-npm run dev
-```
-
----
-
-# 🔐 Environment Variables
-
-Backend `.env`
-
-```env
-PORT=5000
-
-MONGO_URI=your_mongodb_connection_string
-
-JWT_SECRET=your_secret_key
-
-FRONTEND_URL=http://localhost:5173
-```
-
-Frontend `.env`
-
-```env
-VITE_API_URL=http://localhost:5000
-```
-
----
-
-# 📸 Screenshots
-
-> Add your screenshots here.
-
-```
-Login Page
-
-Faculty Dashboard
-
-Attendance Page
-
-Admin Dashboard
-
-Reports
-
-Mobile View
-```
-
----
-
-# 📱 Responsive Design
-
-✔ Desktop
-
-✔ Laptop
-
-✔ Tablet
-
-✔ Mobile
-
----
-
-# 🔒 Security
-
+### Backend
+- Node.js
+- Express.js
+- REST APIs
 - JWT Authentication
-- Password Encryption
-- Protected Routes
-- Role-Based Authorization
-- MongoDB Sanitization
-- Helmet Security
-- Rate Limiting
-- CORS Protection
+
+### Database
+- MongoDB
+- MySQL
+
+### Programming Languages
+- Java
+- Python
+- JavaScript
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Postman
+- Render
+- MongoDB Atlas
 
 ---
 
-# 📈 Future Enhancements
+# 🚀 Featured Projects
 
-- QR Code Attendance
-- Face Recognition
-- Biometric Integration
-- SMS Notifications
-- Email Notifications
-- Parent Portal
-- Student Portal
-- AI Attendance Analytics
-- PDF Report Generation
-- Dark Mode
+## 🎓 Attendance Management System
+A modern MERN Stack platform for educational institutions featuring faculty authentication, timetable management, real-time attendance tracking, analytics, and admin reporting.
 
 ---
 
-# 🤝 Contributing
-
-Contributions are always welcome.
-
-```bash
-Fork the repository
-
-Create a new branch
-
-Commit your changes
-
-Push to your branch
-
-Create a Pull Request
-```
+## ♻️ Plastic Waste Recycle Credit System
+A web application promoting sustainable waste management through reward-based recycling and user engagement.
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
+## 💰 Personal Finance Tracker
+A finance management application for tracking income, expenses, budgets, and spending insights.
 
 ---
 
-# 👨‍💻 Developer
+## 🏨 Hotel Management System
+A complete hotel booking and management application with room reservations and customer management.
 
-## Navin Kumar C
+---
 
-Full Stack Developer
+# 🏆 Achievements
 
-B.Tech Information Technology
+- 🥉 3rd Prize Winner – Hackathon at Kongu Engineering College
+- 💡 Built multiple full-stack academic and real-world projects
+- 📚 Constantly learning modern web technologies and best practices
 
-Shree Venkateshwara Hi-Tech Engineering College
+---
 
-GitHub:
-https://github.com/CNavinKumar
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CNavinKumar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CNavinKumar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CNavinKumar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 🌐 Portfolio: https://your-portfolio.com
+- 🐙 GitHub: https://github.com/CNavinKumar
+
+---
+
+# 💭 Developer Philosophy
+
+> *"Great software is built by combining curiosity, creativity, and consistency. Every project is an opportunity to learn, improve, and make a meaningful impact."*
 
 ---
 
 <div align="center">
 
-## ⭐ Star this repository if you like this project ⭐
+### ⭐ Thanks for visiting my profile!
 
-Made with ❤️ using the MERN Stack
+**Let's build something amazing together.**
 
 </div>
