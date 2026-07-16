@@ -93,29 +93,13 @@ A complete hotel booking and management application with room reservations and c
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CNavinKumar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CNavinKumar&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CNavinKumar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://your-portfolio.com
+- 📧 Email: navinkumarc@hotmail.com
+- 💼 LinkedIn: https://linkedin.com/in/navinkumarc
+- 🌐 Portfolio: https://navinkumarc.vercel.app/
 - 🐙 GitHub: https://github.com/CNavinKumar
 
 ---
