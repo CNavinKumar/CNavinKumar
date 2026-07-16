@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_LOGO_URL_OR_GITHUB_LOGO" width="180" alt="Navin Kumar Logo"/>
+<!-- <img src="YOUR_LOGO_URL_OR_GITHUB_LOGO" width="180" alt="Navin Kumar Logo"/> -->
 
 # Hi, I'm Navin Kumar C 👋
 
