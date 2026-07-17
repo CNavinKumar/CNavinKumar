@@ -28,38 +28,12 @@ Passionate about building modern web applications, solving real-world problems, 
 
 ---
 
-# 🛠 Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Vite
-- Tailwind CSS
+# 🚀 Tech Stack
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### Database
-- MongoDB
-- MySQL
-
-### Programming Languages
-- Java
-- Python
-- JavaScript
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Postman
-- Render
-- MongoDB Atlas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,render&theme=dark&perline=6" />
+</p>
 
 ---
 
