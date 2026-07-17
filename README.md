@@ -31,12 +31,9 @@ Passionate about building modern web applications, solving real-world problems, 
 
 # 🛠 Tech Stack
 
-<div align="center">
-
+<div>
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-
 <br><br>
 
 ### Backend
