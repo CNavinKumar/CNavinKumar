@@ -96,9 +96,9 @@ A complete hotel booking and management application with room reservations and c
 
 # 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://your-portfolio.com
+- 📧 Email: navinkumarc@hotmail.com
+- 💼 LinkedIn: https://linkedin.com/in/navinkumarc
+- 🌐 Portfolio: https://navinkumarc.vercel.app/
 - 🐙 GitHub: https://github.com/CNavinKumar
 
 ---
