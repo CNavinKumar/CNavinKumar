@@ -1,124 +1,91 @@
 <div align="center">
 
-<!-- <img src="YOUR_LOGO_URL_OR_GITHUB_LOGO" width="180" alt="Navin Kumar Logo"/> -->
+<img src="YOUR_LOGO_URL" width="90" alt="Navin Kumar Logo"/>
 
 # Hi, I'm Navin Kumar C 👋
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | B.Tech Information Technology Student
+### Full Stack Developer • MERN Stack • B.Tech IT
 
-<p align="center">
-Passionate about building modern web applications, solving real-world problems, and continuously learning new technologies. I enjoy creating scalable, user-friendly, and impactful software solutions.
+<p>
+Building scalable web applications, crafting intuitive user experiences, and continuously learning modern technologies.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=CNavinKumar&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=CNavinKumar&label=Profile+Views&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/CNavinKumar?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/CNavinKumar?affiliations=OWNER&style=flat-square"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology (2023–2027)
-- 🏫 Shree Venkateshwara Hi-Tech Engineering College (Autonomous)
-- 💻 Full Stack Web Developer
-- 🌱 Currently exploring advanced MERN Stack development, scalable system design, and cloud deployment.
-- 🔭 Building real-world applications with clean architecture and modern UI/UX.
-- 🎯 Goal: Become a Software Engineer and contribute to impactful products.
-- ⚡ Passionate about continuous learning and solving challenging problems.
+- 🎓 **B.Tech Information Technology (2023–2027)**
+- 🏫 Shree Venkateshwara Hi-Tech Engineering College
+- 💼 Passionate Full Stack Developer
+- 🌱 Exploring Cloud, System Design & Scalable Applications
+- 🎯 Aspiring Software Engineer
+- ⚡ Love building real-world solutions
 
 ---
 
+## 💻 Tech Stack
 
-# 🛠 Tech Stack
+<div align="center">
 
-<div>
-  
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br><br>
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,render&theme=dark&perline=8"/>
 
 </div>
----
-
-# 🚀 Featured Projects
-
-## 🎓 Attendance Management System
-A modern MERN Stack platform for educational institutions featuring faculty authentication, timetable management, real-time attendance tracking, analytics, and admin reporting.
 
 ---
 
-## ♻️ Plastic Waste Recycle Credit System
-A web application promoting sustainable waste management through reward-based recycling and user engagement.
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎓 **Attendance Management System** | MERN Stack attendance platform with authentication, timetable management, analytics, and reports. |
+| ♻️ **Plastic Waste Recycle Credit System** | Reward-based recycling platform promoting sustainable waste management. |
+| 💰 **Personal Finance Tracker** | Expense, income, and budget management application. |
+| 🏨 **Hotel Management System** | Room booking and hotel management platform. |
 
 ---
 
-## 💰 Personal Finance Tracker
-A finance management application for tracking income, expenses, budgets, and spending insights.
+## 🏆 Achievements
+
+🥉 **3rd Prize** — Hackathon at Kongu Engineering College
 
 ---
 
-## 🏨 Hotel Management System
-A complete hotel booking and management application with room reservations and customer management.
+## 🌐 Connect With Me
 
----
+<div align="center">
 
-# 🏆 Achievements
+<a href="mailto:navinkumarc@hotmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
 
-- 🥉 3rd Prize Winner – Hackathon at Kongu Engineering College
-- 💡 Built multiple full-stack academic and real-world projects
-- 📚 Constantly learning modern web technologies and best practices
+<a href="https://linkedin.com/in/navinkumarc">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
----
+<a href="https://github.com/CNavinKumar">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
+<a href="https://navinkumarc.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-
-# 📫 Connect With Me
-
-- 📧 Email: navinkumarc@hotmail.com
-- 💼 LinkedIn: https://linkedin.com/in/navinkumarc
-- 🌐 Portfolio: https://navinkumarc.vercel.app/
-- 🐙 GitHub: https://github.com/CNavinKumar
-
----
-
-# 💭 Developer Philosophy
-
-> *"Great software is built by combining curiosity, creativity, and consistency. Every project is an opportunity to learn, improve, and make a meaningful impact."*
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+> *"Code with purpose. Learn continuously. Build for impact."*
 
-**Let's build something amazing together.**
+⭐ **Thanks for visiting my profile!**
 
 </div>
