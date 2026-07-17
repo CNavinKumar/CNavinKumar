@@ -29,11 +29,41 @@ Passionate about building modern web applications, solving real-world problems, 
 ---
 
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,render&perline=6" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
 ---
