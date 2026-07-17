@@ -29,12 +29,13 @@ Passionate about building modern web applications, solving real-world problems, 
 ---
 
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,render&theme=dark&perline=6" />
-</p>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,render&perline=6" />
+
+</div>
 ---
 
 # 🚀 Featured Projects
